@@ -187,10 +187,12 @@ markers:
       ', id: KR4d0508_WYG_055-bkkkrnewl43}
   - {type: line-break, offset: 712, content: '', id: KR4d0508_WYG_055-3a08}
   - {type: punctuation, offset: 729, content: (, id: KR4d0508_WYG_055-bkkpn1}
+  - {type: voice, offset: 729, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 730, content: /, id: KR4d0508_WYG_055-bkkpn2}
   - {type: punctuation, offset: 730, content: ), id: KR4d0508_WYG_055-bkkpn3}
   - {type: indent, offset: 730, content: 　, id: KR4d0508_WYG_055-bkkind8}
   - {type: punctuation, offset: 731, content: (, id: KR4d0508_WYG_055-bkkpn4}
+  - {type: voice, offset: 731, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 732, content: /, id: KR4d0508_WYG_055-bkkpn5}
   - {type: punctuation, offset: 732, content: ), id: KR4d0508_WYG_055-bkkpn6}
   - {type: 'kr:newline', offset: 732, content: '
@@ -202,6 +204,7 @@ markers:
       ', id: KR4d0508_WYG_055-bkkkrnewl45}
   - {type: line-break, offset: 732, content: '', id: KR4d0508_WYG_055-3b01}
   - {type: punctuation, offset: 733, content: (, id: KR4d0508_WYG_055-bkkpn7}
+  - {type: voice, offset: 733, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 734, content: /, id: KR4d0508_WYG_055-bkkpn8}
   - {type: punctuation, offset: 734, content: ), id: KR4d0508_WYG_055-bkkpn9}
   - {type: 'kr:newline', offset: 753, content: '
@@ -838,6 +841,7 @@ markers:
       ', id: KR4d0508_WYG_055-bkkkrnewl202}
   - {type: line-break, offset: 3544, content: '', id: KR4d0508_WYG_055-12a05}
   - {type: punctuation, offset: 3561, content: (, id: KR4d0508_WYG_055-bkkpn10}
+  - {type: voice, offset: 3561, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3562, content: /, id: KR4d0508_WYG_055-bkkpn11}
   - {type: punctuation, offset: 3562, content: ), id: KR4d0508_WYG_055-bkkpn12}
   - {type: 'kr:newline', offset: 3565, content: '
@@ -976,4 +980,4 @@ markers:
 
       ', id: KR4d0508_WYG_055-bkkkrnewl233}
   back: []
-hash: sha256:1879d283e8c815e7a88815393edb2eaf25e2b1d7e5b9779c8500c8eedcf9ba12
+hash: sha256:457da08662f8ece2c42839cb9ef8d26b777bfd46f713d6505ed10fd3c0779d25
